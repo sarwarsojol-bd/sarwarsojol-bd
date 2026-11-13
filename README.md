@@ -43,7 +43,7 @@ I believe great ideas can create great opportunities. I'm here to learn, explore
 - Explore innovative business solutions
 - Develop an entrepreneurial mindset
 - Connect with creative and ambitious people
-- 
+  
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -60,11 +60,6 @@ I believe great ideas can create great opportunities. I'm here to learn, explore
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </p>
-
----
-
-💬 *Let's connect, collaborate, share ideas, and build something meaningful together!*
-
 
 ---
 💬 *Let's connect, collaborate, and build something meaningful together!*
