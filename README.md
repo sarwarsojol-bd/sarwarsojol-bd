@@ -43,13 +43,32 @@ I believe great ideas can create great opportunities. I'm here to learn, explore
 - Explore innovative business solutions
 - Develop an entrepreneurial mindset
 - Connect with creative and ambitious people
+- 
+## 🤝 Connect With Me
 
-## 🤝 Let's Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarwar-hossain-sojol/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/sarwarhossainsojol" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@sarwarsojol-bd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.reddit.com/user/Sarwar19/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+</p>
 
-I'm always interested in learning, sharing ideas, and connecting with people who love innovation and entrepreneurship.
+---
 
-- 🌐 GitHub: [@sarwarsojol-bd](https://github.com/sarwarsojol-bd)
-- 🌐 Linkedin: [@sarwar-hossain-sojol](https://www.linkedin.com/in/sarwar-hossain-sojol/).
+💬 *Let's connect, collaborate, share ideas, and build something meaningful together!*
+
+
+---
+💬 *Let's connect, collaborate, and build something meaningful together!*
+
 ---
 
 ### 💬 My Philosophy
