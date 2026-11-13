@@ -49,7 +49,7 @@ I believe great ideas can create great opportunities. I'm here to learn, explore
 I'm always interested in learning, sharing ideas, and connecting with people who love innovation and entrepreneurship.
 
 - 🌐 GitHub: [@sarwarsojol-bd](https://github.com/sarwarsojol-bd)
-
+- 🌐 Linkedin: [@sarwar-hossain-sojol](https://www.linkedin.com/in/sarwar-hossain-sojol/).
 ---
 
 ### 💬 My Philosophy
